@@ -1,0 +1,10 @@
+.nav-link {
+    color: black;
+}
+.mainImg{
+  background-image: url(/bullet-4789466_1920.jpg);
+ 
+}
+.navColor{
+    background-image: linear-gradient(to bottom, #ffffff, #b9b9b9, #777777, #3b3b3b, #000000);
+}
